@@ -1,0 +1,11 @@
+# Router
+ip address 192.168.1.1 255.255.255.0
+
+# DNS Server
+DNS ON
+
+Record:
+www.example.local → 192.168.1.2
+
+# Web Server
+HTTP ON
